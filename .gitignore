@@ -148,6 +148,8 @@ dist
 
 node_modules
 
+fow-packages
+
 *.sublime*
 
 psd

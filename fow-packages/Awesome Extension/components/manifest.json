@@ -1,1 +1,0 @@
-{"contents":[{"key":"tab-component","type":"tab","fileName":"Tab.js","properties":{"key":"tab","label":"Awesome Tab"},"scopes":["contact.detail","lead.detail"]},{"key":"page","type":"page","fileName":"Page.js","properties":{"key":"page","label":"Awesome Page","path":"awesome-extension/home"},"scopes":["giant.menu"]}]}
